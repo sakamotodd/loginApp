@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "skmt1114",
+    "database": "fmproxy",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
